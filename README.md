@@ -1,4 +1,7 @@
 # faster_taxi_tip_prediction
+
+###### Source code is provided as preview doesnot responding
+
 so these is a regression based snap ml project on faster taxi tip and from the final output we can clearly say that 
 The snap ml has an advatage of been fast as it provided faster result with the same accuracy as of scikit learn the MSE score of both the 
 system are neraly same but snap ml give a score of 1.655 and the scikit model gives the MSE score of 1.636 which neraly same but snap ml is much faster compare to scikit learn
